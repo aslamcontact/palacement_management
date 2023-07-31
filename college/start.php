@@ -39,6 +39,7 @@
   <li><a onclick="showedit()">Edit Student</a></li>
   <li><a onclick="showdel()">Deletion</a></li>
   <li><a  onclick="alogout()">Log Out</a></li>
+  hellow
 </ul>-->
        
  
